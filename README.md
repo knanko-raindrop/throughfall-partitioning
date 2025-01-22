@@ -4,7 +4,7 @@ Codes used for throughfall partitioning into free throughfall (FR), splash throu
 Levia, D.F. and Nanko, K. et al. (2019) Throughfall partitioning by trees. Hydrological Processes 33: 1698-1708. [doi:10.1002/hyp.13432](https://doi.org/10.1002/hyp.13432)
 
 # References
-Nanko, K., Levia, D.F., Iida, S., Shinohara, Y., Sakai, N. (in press) Machine learning reveals the contrasting roles of rainfall and canopy structure metrics on the formation of canopy drip and splash throughfall. Journal of Geophysical Research: Biogeosciences. doi:10.1029/2024JG008340
+Nanko, K., Levia, D.F., Iida, S., Shinohara, Y., Sakai, N. (in production) Machine learning reveals the contrasting roles of rainfall and canopy structure metrics on the formation of canopy drip and splash throughfall. Journal of Geophysical Research: Biogeosciences. doi:10.1029/2024JG008340
 
 # Data and setup
 In preparation.
